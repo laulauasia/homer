@@ -31,6 +31,7 @@ colors:
     highlight-secondary: "#a78a7d"
     highlight-hover: "#f9f9f9"
     background: "#434259"
+    background-image: "assets/background/bg-xdr.jpg"
     card-background: "#444259"
     text: "#eaeaea"
     text-header: "#ffffff"
