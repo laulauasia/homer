@@ -52,7 +52,7 @@ content: "This is a dummy homepage demo. <br /> Find more information on <a href
 links:
   - name: "Github"
     icon: "fab fa-github"
-    url: "https://github.com/tanner4137"
+    url: "https://github.com/laulauasia"
     target: "_blank" # optional html a tag target attribute
   - name: "Wiki"
     icon: "fas fa-book"
