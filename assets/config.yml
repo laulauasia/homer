@@ -4,7 +4,7 @@
 
 title: "Lau Lau Web Services"
 subtitle: "Dashboard"
-logo: "logos/logo.jpg"
+logo: "assets/logos/logo.jpg"
 icon: "fas fa-skull-crossbones" # Optional icon
 
 header: true
