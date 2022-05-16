@@ -149,7 +149,7 @@ services:
         tag: "app"
         url: "https://dash.cloudflare.com/login"
       - name: "Portainer - Home"
-        logo: "assets/tools/sample.png"
+        logo: "assets/tools/portainer.png"
         subtitle: "Portainer instance residing on Home"
         tag: "home"
         url: "http://192.168.88.178:9000/#!/home"
