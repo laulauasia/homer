@@ -77,6 +77,16 @@ services:
         tag: "app"
         url: "https://stats.uptimerobot.com/LDqolUkA49"
         target: "_blank"
+  - name: "Server Monitoring"
+    icon: "fas fa-cloud"
+    items:
+      - name: "Grafana"
+        logo: "assets/logos/tools/sample.png"
+        subtitle: "Monitor Service"
+        tag: "home"
+        url: "http://192.168.88.178:3000"
+        target: "_blank"
+
     #   - name: "Elmer - iDrac"
     #     logo: "assets/tools/sample.png"
     #     subtitle: "Lights Out Monitoring"
