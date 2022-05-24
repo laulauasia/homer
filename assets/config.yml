@@ -72,7 +72,7 @@ services:
     icon: "fas fa-cloud"
     items:
       - name: "UptimeRobot"
-        logo: "assets/logos/tools/sample.png"
+        logo: "assets/logos/tools/uptimerobot.jpeg"
         subtitle: "Monitor Service Uptime"
         tag: "app"
         url: "https://stats.uptimerobot.com/LDqolUkA49"
