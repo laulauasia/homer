@@ -96,7 +96,7 @@ services:
         url: "https://neflix.com"
         target: "_blank"
       - name: "Plex"
-            logo: "assets/tools/sample.png"
+            logo: "assets/logos/media/netflix.png"
             subtitle: "Plex Media Server"
             tag: "app"
             url: "http://192.168.88.2:32400/"
