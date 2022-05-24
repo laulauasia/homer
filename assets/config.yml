@@ -95,6 +95,12 @@ services:
         tag: "online "
         url: "https://neflix.com"
         target: "_blank"
+      - name: "Plex"
+            logo: "assets/tools/sample.png"
+            subtitle: "Plex Media Server"
+            tag: "app"
+            url: "http://192.168.88.2:32400/"
+            target: "_blank" # optional html a tag target attribute
     #   - name: "Elmer - iDrac"
     #     logo: "assets/tools/sample.png"
     #     subtitle: "Lights Out Monitoring"
@@ -137,7 +143,7 @@ services:
   #       logo: "assets/tools/sample.png"
   #       subtitle: "Plex Media Server"
   #       tag: "app"
-  #       url: "https://10.10.2.101:32400"
+  #       url: "http://192.168.88.2:32400/"
   #       target: "_blank" # optional html a tag target attribute
   #     - name: "Tautulli"
   #       logo: "assets/tools/sample.png"
