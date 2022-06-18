@@ -73,7 +73,7 @@ services:
     items:
       - name: "UptimeRobot"
         logo: "assets/logos/monitor/uptimekuma.png"
-        subtitle: "It is a self-hosted monitoring tool like "Uptime Robot"."
+        subtitle: "It is a self-hosted monitoring tool like Uptime Robot."
         tag: "app"
         url: "https://stats.uptimerobot.com/LDqolUkA49"
         target: "_blank"
