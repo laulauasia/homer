@@ -154,7 +154,7 @@ services:
         url: "https://192.168.88.20/"
         target: "_blank"
       - name: "TrueNAS "
-        logo: "assets/logos/virtualization/truenasscale.png"
+        logo: "assets/logos/storage/truenasscale.png"
         subtitle: "TrueNAS CORE is enterprise-quality software-defined storage that can be used without restrictions or cost. It is also the core of the full-fledged enterprise edition, TrueNAS Enterprise, which provides the additional fault-tolerance, performance, and support that businesses and critical applications require."
         tag: "homelab"
         url: "https://nas.laulau.cc"
