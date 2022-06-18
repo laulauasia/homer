@@ -98,7 +98,7 @@ services:
         tag: "home,database"
         url: "http://192.168.88.20:10086/"
   - name: "Media"
-    icon: "fas fa-cloud"
+    icon: "fa-solid fa-photo-film"
     items:
       - name: "Plex App"
         logo: "assets/logos/media/plex.png"
