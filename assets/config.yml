@@ -74,7 +74,7 @@ services:
       - name: "UptimeRobot"
         logo: "assets/logos/monitor/uptimekuma.svg"
         subtitle: "It is a self-hosted monitoring tool like Uptime Robot."
-        tag: "app","internet"
+        tag: "app,internet"
         url: "https://uptime.laulau.cc"
         target: "_blank"
       - name: "UptimeRobot - Local"
@@ -157,7 +157,7 @@ services:
         subtitle: "TrueNAS CORE is enterprise-quality software-defined storage that can be used without restrictions or cost. It is also the core of the full-fledged enterprise edition, TrueNAS Enterprise, which provides the additional fault-tolerance, performance, and support that businesses and critical applications require."
         tag: "homelab"
         url: "https://nas.laulau.cc"
-        target: "_blank"  
+        target: "_blank"
       # - name: "Portainer - Hom
       # - name: "Portainer - Home"
       #   logo: "assets/logos/tools/portainer.png"
