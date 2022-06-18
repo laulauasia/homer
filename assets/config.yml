@@ -72,10 +72,10 @@ services:
     icon: "fas fa-cloud"
     items:
       - name: "UptimeRobot"
-        logo: "assets/logos/monitor/uptimekuma.png"
+        logo: "assets/logos/monitor/uptimekuma.svg"
         subtitle: "It is a self-hosted monitoring tool like Uptime Robot."
         tag: "app"
-        url: "https://stats.uptimerobot.com/LDqolUkA49"
+        url: "https://uptime.laulau.cc"
         target: "_blank"
   - name: "Server Monitoring"
     icon: "fas fa-cloud"
